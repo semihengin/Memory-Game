@@ -1,20 +1,23 @@
 # Memory Game
 
-Bu proje, C# kullanarak geliştirdiğim bir hafıza oyunudur. Amaç, oyuncuların kartları eşleştirerek hafızalarını test etmelerini sağlamaktır.
+This project is a memory game developed using C#. The goal is to challenge players' memory skills by matching pairs of cards. It is designed as a simple yet engaging game to test and improve short-term memory capabilities.
 
-## Oyun Kuralları
+## Game Rules
 
-- **Kartları Çevirme**: Oyuncu, her seferinde iki kartı çevirerek eşleşen çiftleri bulmaya çalışır.
-- **Eşleşme**: Seçilen iki kart aynıysa, bu kartlar açık kalır; farklıysa, tekrar kapatılır.
-- **Amaç**: Tüm kart çiftlerini en kısa sürede ve en az hamleyle eşleştirmektir.
+- **Flipping Cards**: Players flip two cards at a time to find matching pairs.
+- **Matching**: If the two selected cards match, they remain open; otherwise, they are turned back over.
+- **Objective**: Match all card pairs in the shortest time and with the fewest moves.
+- **Game Completion**: The game ends when all pairs are successfully matched, and the player's performance is recorded.
 
-## Özellikler
+## Features
 
-- **Seviye Seçimi**: Farklı zorluk seviyeleri ile oynama imkanı.
-- **Skor Takibi**: Hamle sayısı ve süreye dayalı skor hesaplama.
-- **Kullanıcı Dostu Arayüz**: Basit ve anlaşılır tasarım.
+- **Difficulty Levels**: Play at different levels of difficulty, making the game accessible to all ages.
+- **Score Tracking**: Score calculation based on the number of moves and elapsed time, encouraging competitive gameplay.
+- **User-Friendly Interface**: Simple and intuitive design that allows easy navigation.
+- **Randomized Card Layout**: Ensures that each game session is unique, enhancing replayability.
+- **Sound Effects and Animations**: Adds an interactive and immersive experience.
 
-## Gereksinimler
+## Requirements
 
-- .NET Framework 4.7.2 veya üzeri
-- Windows 7 veya üzeri işletim sistemi
+- .NET Framework 4.7.2 or higher
+- Windows 7 or later operating system
