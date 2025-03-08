@@ -2,6 +2,8 @@
 
 This project is a memory game developed using C#. The goal is to challenge players' memory skills by matching pairs of cards. It is designed as a simple yet engaging game to test and improve short-term memory capabilities.
 
+Note: This project was developed in April 2021 during my first year of university as an early programming exercise to improve my C# skills and understand fundamental game development concepts.
+
 ## Game Rules
 
 - **Flipping Cards**: Players flip two cards at a time to find matching pairs.
